@@ -1,0 +1,35 @@
+{
+  "name": "vibe-now-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.10.5",
+    "@emotion/react": "^11.10.5",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/lato": "^4.5.10",
+    "@material-ui/core": "^5.0.0-beta.5",
+    "@material-ui/styles": "^4.11.5",
+    "@mui/icons-material": "^5.10.14",
+    "@mui/material": "^5.10.14",
+    "@mui/styled-engine-sc": "^5.10.14",
+    "@react-icons/all-files": "^4.1.0",
+    "canvasjs-react-charts": "^1.0.5",
+    "chart.js": "2.9.3",
+    "next": "13.0.3",
+    "react": "18.2.0",
+    "react-chartjs-2": "2.8.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.6.0",
+    "react-router-dom": "^6.4.3",
+    "react-scripts": "3.0.1",
+    "react-select": "^5.7.0",
+    "styled-components": "^5.3.6"
+  }
+}
